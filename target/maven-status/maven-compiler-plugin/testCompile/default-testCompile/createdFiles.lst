@@ -1,0 +1,5 @@
+com\polansky\batching\NonBatchTest.class
+com\polansky\batching\TransactionalSaver.class
+com\polansky\batching\TransactionalSaverUsingIdentity.class
+com\polansky\batching\BatchTest.class
+com\polansky\batching\IdentityTest.class

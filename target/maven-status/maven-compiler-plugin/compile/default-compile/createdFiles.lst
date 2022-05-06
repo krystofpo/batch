@@ -1,0 +1,9 @@
+com\polansky\batching\BatchingApplication.class
+com\polansky\batching\entity\Address.class
+com\polansky\batching\UserUsingIdentityRepo.class
+net\ttddyy\dsproxy\listener\logging\InlineQueryLogEntryCreator.class
+com\polansky\batching\entity\UserUsingIdentity.class
+com\polansky\batching\entity\User.class
+com\polansky\batching\entity\AddressUsingIdentity.class
+com\polansky\batching\UserRepo.class
+com\polansky\batching\AddressRepo.class
